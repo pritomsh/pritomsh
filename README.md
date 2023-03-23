@@ -1,15 +1,15 @@
 # 💫 About Me:
 🌱 I’m currently learning Deep Learning, Machine Learning, Data Analyst<br><br>👯 I’m looking to collaborate on Deep Learning Research Field <br><br>📫 How to reach me: pritomshcse@gmail.com<br><br>
 ```ruby
-                                               Hello Coders,
-                                               Copy Code Run
+                                         Hello Coders,
+                                            Copy Code Run Edit
 ```
 
 ```
 
-           |============|                          |=============|                      |================|
-            Data Analyst                            Deep Learning                        Machine Learning                     
-           |============|                          |=============|                      |================|
+       |============|                          |=============|                      |================|
+        Data Analyst                            Deep Learning                        Machine Learning                     
+       |============|                          |=============|                      |================|
 ```
 
 ## 🌐 Socials:
