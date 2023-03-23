@@ -1,9 +1,17 @@
 # 💫 About Me:
 🌱 I’m currently learning Deep Learning, Machine Learning, Data Analyst<br><br>👯 I’m looking to collaborate on Deep Learning Research Field <br><br>📫 How to reach me: pritomshcse@gmail.com<br><br>
 ```ruby
-  Hello Coders,
-  Copy Code Run
+                                               Hello Coders,
+                                               Copy Code Run
 ```
+
+```
+
+               |============|                          |=============|                      |================|
+                Data Analyst                            Deep Learning                        Machine Learning                     
+               |============|                          |=============|                      |================|
+```
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pritmsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pritomsh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pritomsh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pritomsah) 
 
