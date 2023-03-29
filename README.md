@@ -26,9 +26,6 @@
 
 ---
 
-
-
-
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=pritomsah)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
