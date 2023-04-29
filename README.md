@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+My+Coding++World)](https://git.io/typing-svg)
 # 💫 About Me:
 🌱 I’m currently learning Deep Learning, Machine Learning, Data Analyst<br><br>👯 I’m looking to collaborate on Deep Learning Research Field <br><br>📫 How to reach me: pritomshcse@gmail.com<br><br>
 ```ruby
